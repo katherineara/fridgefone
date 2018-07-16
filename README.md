@@ -1,4 +1,4 @@
-# Project 2 - *fridgefone*
+# *fridgefone*
 
 **fridgefone** Description goes here.
 
